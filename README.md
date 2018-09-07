@@ -3,7 +3,10 @@ Based on work of Gregor Koehler at https://nextjournal.com/gkoehler/digit-recogn
 
 AMANZHOL DARIBAY and DAUREN BINAZAROV - students at NAZARBAYEV UNIVERSITY
 
-Network configuration
+TO RUN:
+- in command line type python env.py
+
+Network configuration:
  - Network Architecture is Keras Sequential Model
  - Input units are 784
  - Number of hidden layers are 2
