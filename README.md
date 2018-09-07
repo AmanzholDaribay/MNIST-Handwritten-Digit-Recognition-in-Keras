@@ -3,7 +3,7 @@ Based on work of Gregor Koehler at https://nextjournal.com/gkoehler/digit-recogn
 
 AMANZHOL DARIBAY and DAUREN BINAZAROV - students at NAZARBAYEV UNIVERSITY
 
-TO RUN: in command line type python env.py
+TO RUN: in command line type PYTHON ENV.PY
 
 Network configuration:
  - Network Architecture is Keras Sequential Model
