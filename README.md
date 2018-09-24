@@ -5,6 +5,8 @@ AMANZHOL DARIBAY and DAUREN BINAZAROV - students at NAZARBAYEV UNIVERSITY
 
 TO RUN: in command line type PYTHON ENV.PY
 
+Accuracy: 98.41% by 50-70 iterations(epochs)
+
 Network configuration:
  - Network Architecture is Keras Sequential Model
  - Input units are 784
